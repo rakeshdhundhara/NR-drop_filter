@@ -1,0 +1,3 @@
+variable "drop" {
+  type = any
+}
